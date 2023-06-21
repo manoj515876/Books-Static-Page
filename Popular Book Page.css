@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-color {
+    background-color: #1b1b1b;
+    height: 100vh;
+    width: 100vw;
+    padding: 20px;
+}
+
+.heading-3 {
+    color: #ffffff;
+    font-family: Bee Serif;
+    font-size: 20px;
+}
+
+.heading {
+    color: #ffffff;
+    font-family: Bee Serif;
+    font-size: 28px;
+}
+
+.content {
+    padding: 10px;
+}
+
+.bg-color-1 {
+    background-color: #e6f6ff;
+    height: 200px;
+    width: 350px;
+}
+
+.img {
+    height: 200px;
+    width: 150px;
+}
+
+.heading-1 {
+    color: #183b56;
+    font-family: Bee Serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.para {
+    color: #06070d;
+    font-family: Bee Serif;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.para-1 {
+    color: #183b56;
+    font-family: Bee Serif;
+}
+
+.img-2 {
+    height: 130px;
+}
+
+.heading-4 {
+    color: #ffffff;
+    font-family: Bee Serif;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.para-4 {
+    color: #9aa5b1;
+    font-family: Bee Serif;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.map {
+    padding: 10px;
+}
+
+.post {
+    text-align: center;
+}
+
+.img-10 {
+    height: 250px;
+    width: 200px;
+}
+
+.heading-10 {
+    color: #ffffff;
+    font-family: Bee Serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.para-10 {
+    color: #9aa5b1;
+    font-family: Bee Serif;
+}
+
+.para-9 {
+    color: #e4e7eb;
+    font-family: Bee Serif;
+    font-size: 12px;
+}
